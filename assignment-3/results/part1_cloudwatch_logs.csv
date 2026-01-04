@@ -1,0 +1,13 @@
+timestamp,message
+1761729069911,"/var/lang/lib/python3.8/site-packages/sklearn/base.py:348: InconsistentVersionWarning: Trying to unpickle estimator SVC from version 0.23.2 when using version 1.3.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+"
+1761729069911,"https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+"
+1761729069911,"warnings.warn(
+"
+1761729069914,"START RequestId: ab57c304-3aab-4cb2-a424-39991c42671b Version: $LATEST
+"
+1761729069929,"END RequestId: ab57c304-3aab-4cb2-a424-39991c42671b
+"
+1761729069929,"REPORT RequestId: ab57c304-3aab-4cb2-a424-39991c42671b	Duration: 15.57 ms	Billed Duration: 1392 ms	Memory Size: 128 MB	Max Memory Used: 121 MB	Init Duration: 1375.93 ms	
+"
